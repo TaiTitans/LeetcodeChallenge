@@ -12,4 +12,4 @@
 - "Perseverance and effort you will succeed . You can do it." 💕
 
 ---
-- [Day 1]()
+- [Day 1](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day1/Day1.md)
