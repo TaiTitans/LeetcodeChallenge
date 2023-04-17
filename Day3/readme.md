@@ -1,4 +1,4 @@
-# Day 2
+# Day 3
 
 - [LeetCode-RichestCustomerWealth](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/)
 ---
