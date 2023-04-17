@@ -14,3 +14,4 @@
 ---
 - [Day 1](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day1/Day1.md)
 - [Day 2](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day2/day2.md)
+- [Day 3](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day3/readme.md)
