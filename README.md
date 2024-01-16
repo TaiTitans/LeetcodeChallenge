@@ -20,3 +20,5 @@
 - [Day 6](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day6)
 - [Day 7](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day7)
 - [Day 8](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day8)
+- [Day 9](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day9)
+- [Day 10](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day10/readme.md)
