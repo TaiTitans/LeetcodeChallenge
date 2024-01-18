@@ -23,3 +23,4 @@
 - [Day 9](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day9)
 - [Day 10](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day10/readme.md)
 - [Day 11](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day11/readme.md)
+- [Day 12](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day12/readme.md)
