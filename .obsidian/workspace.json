@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day16/23.MergekSortedLists.md",
+                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day16/23.MergekSortedLists.md",
+                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day16/23.MergekSortedLists.md",
+                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day16/23.MergekSortedLists.md"
+                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "9d0ffbb2c6fd535f",
   "lastOpenFiles": [
-    "Day15/21.MergeTwoSortedLists.md",
+    "Day17/SinglyLinkedList/83. Remove Duplicates from Sorted List.md",
+    "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
     "Day16/23.MergekSortedLists.md",
+    "Day17/SinglyLinkedList",
+    "Day17",
+    "Day15/21.MergeTwoSortedLists.md",
     "Day16",
     "Day15/206.ReverseLinkedList.md",
     "README.md",
