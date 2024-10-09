@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
+                "file": "Day18/19. Remove Nth Node From End of List.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
+                "file": "Day18/19. Remove Nth Node From End of List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
+                "file": "Day18/19. Remove Nth Node From End of List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md"
+                "file": "Day18/19. Remove Nth Node From End of List.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "9d0ffbb2c6fd535f",
   "lastOpenFiles": [
-    "Day17/SinglyLinkedList/83. Remove Duplicates from Sorted List.md",
     "Day17/SinglyLinkedList/160. Intersection of Two Linked Lists.md",
+    "Day18/19. Remove Nth Node From End of List.md",
+    "Day18",
+    "Day17/SinglyLinkedList/83. Remove Duplicates from Sorted List.md",
     "Day16/23.MergekSortedLists.md",
     "Day17/SinglyLinkedList",
     "Day17",
