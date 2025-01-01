@@ -1,8 +1,8 @@
-#                     👾leetcodeChallenge👾
+#                     👾Leetcode Challenge 2025👾
 ---
 ## Practice algorithms and problem-solving mindsets with me. 😊
 
-![image](https://user-images.githubusercontent.com/70010376/231834723-494c6363-5e0c-4024-bdd0-fd2350a0b3fe.png)
+![image](https://www.magicalquote.com/wp-content/uploads/2024/01/If-you-have-overwhelming-strength-you-go-into-every-situation-with-an-advantage.jpg)
 
 ### NOTE ⛔:
  
@@ -12,18 +12,4 @@
 - "Perseverance and effort you will succeed . You can do it." 💕
 
 ---
-- [Day 1](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day1/Day1.md)
-- [Day 2](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day2/day2.md)
-- [Day 3](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day3/readme.md)
-- [Day 4](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day4/readme.md)
-- [Day 5](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day5)
-- [Day 6](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day6)
-- [Day 7](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day7)
-- [Day 8](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day8)
-- [Day 9](https://github.com/TaiTitans/leetcodeChallenge/tree/main/Day9)
-- [Day 10](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day10/readme.md)
-- [Day 11](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day11/readme.md)
-- [Day 12](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day12/readme.md)
-- [Day 13](https://github.com/TaiTitans/leetcodeChallenge/blob/main/Day13/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
-- [Day 14](https://github.com/TaiTitans/LeetcodeChallenge/tree/main/Day14)
-- [Day 15](https://github.com/TaiTitans/LeetcodeChallenge/tree/main/Day15)
+- [Notion Solution Template](https://phanphattai.notion.site/100-Days-Leetcode-Challenge-04a8525a7e894e729966b003d0486cbe?pvs=4)
