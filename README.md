@@ -12,4 +12,4 @@
 - "Perseverance and effort you will succeed . You can do it." 💕
 
 ---
-- [Notion Solution Template](https://phanphattai.notion.site/100-Days-Leetcode-Challenge-04a8525a7e894e729966b003d0486cbe?pvs=4)
+- [All Here](https://phanphattai.notion.site/100-Days-Leetcode-Challenge-04a8525a7e894e729966b003d0486cbe?pvs=4)
