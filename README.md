@@ -13,3 +13,4 @@
 
 ---
 - [Update everyday here](https://phanphattai.notion.site/100-Days-Leetcode-Challenge-04a8525a7e894e729966b003d0486cbe?pvs=4)
+- [DSA Ebook use Java](https://github.com/shshankar1/ebooks/blob/master/Data%20Structures%20and%20Algorithms%20in%20Java%2C%206th%20Edition.pdf)
