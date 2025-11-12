@@ -1,0 +1,28 @@
+package main
+
+import "fmt"
+
+func isAnagram(s string, t string) bool {
+	if len(s) != len(t) {
+		return false
+	}
+
+	counts := make(map[rune]int)
+	for _, char := range s {
+		counts[char]++
+	}
+	for _, char := range t {
+		counts[char]--
+		if counts[char] < 0 {
+			return false
+		}
+	}
+	return true
+}
+
+func main() {
+	result := isAnagram("anagram", "nagaram")
+	_ = result // Use result as needed
+	fmt.Println(result)
+
+}
