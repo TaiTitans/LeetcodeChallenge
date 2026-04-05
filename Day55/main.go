@@ -9,11 +9,17 @@ func minimumDifference(nums []int, k int) int {
 	}
 
 	sort.Ints(nums)
+	println("nums: ", nums)
 	minDiff := nums[k-1] - nums[0]
+	println("minDiff: ", minDiff)
 	for i := 1; i < length-k+1; i++ {
+		println("nums[i+k-1]: ", nums[i+k-1], "nums[i]: ", nums[i])
 		diff := nums[i+k-1] - nums[i]
+		println("diff: ", diff)
 		if diff < minDiff {
 			minDiff = diff
+			println("minDiff: ", minDiff)
+			println("--------------------------------")
 		}
 	}
 	return minDiff
